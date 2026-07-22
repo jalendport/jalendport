@@ -19,7 +19,7 @@ I'm Jalen, a designer & web developer who spends most days building things with 
 - <a href="https://github.com/jalendport/craft-lockout"><img src="icons/craft-lockout.svg" width="20" height="28" align="middle" alt=""></a> [`craft-lockout`](https://github.com/jalendport/craft-lockout) — temporarily lock certain users out of the control panel
 - <a href="https://github.com/jalendport/craft-altcha"><img src="icons/craft-altcha.svg" width="20" height="28" align="middle" alt=""></a> [`craft-altcha`](https://github.com/jalendport/craft-altcha) — integrate Altcha's privacy-first spam protection into your Craft CMS forms
 - <a href="https://github.com/jalendport/craft-readtime"><img src="icons/craft-readtime.svg" width="20" height="28" align="middle" alt=""></a> [`craft-readtime`](https://github.com/jalendport/craft-readtime) — estimated read times for Craft CMS entries, counting every field and nested block
-- plus [a few more](https://github.com/search?q=user:jalendport+topic:craftcms-plugin+is:public&type=repositories&s=name&o=asc)
+- plus [a few more](https://github.com/search?q=owner:jalendport+topic:craftcms-plugin+is:public&type=repositories&s=stars&o=desc)
 
 **Laravel Forge** — Helpers and ready-to-deploy stacks for [Laravel Forge](https://forge.laravel.com).
 - [`laravel-forge-recipes`](https://github.com/jalendport/laravel-forge-recipes) — a collection of recipes and other scripts designed to enhance your Laravel Forge workflow
