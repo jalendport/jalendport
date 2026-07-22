@@ -8,8 +8,8 @@ I'm Jalen, a designer & web developer who spends most days building things with 
 
 **Spark** — A set of opinionated boilerplates and tooling for spinning up new projects fast.
 - <a href="https://github.com/jalendport/spark-craft"><img src="icons/spark-craft.svg" width="20" height="28" align="middle" alt=""></a> [`spark-craft`](https://github.com/jalendport/spark-craft) — an opinionated boilerplate for Craft CMS projects
-- <a href="https://github.com/jalendport/spark-cli"><img src="icons/spark-cli.svg" width="20" height="28" align="middle" alt=""></a> [`spark-cli`](https://github.com/jalendport/spark-cli) — a CLI for various Spark boilerplates
 - <a href="https://github.com/jalendport/spark-craft-lab"><img src="icons/spark-craft-lab.svg" width="20" height="28" align="middle" alt=""></a> [`spark-craft-lab`](https://github.com/jalendport/spark-craft-lab) — a disposable Craft CMS runtime for smoke-testing plugins
+- <a href="https://github.com/jalendport/spark-cli"><img src="icons/spark-cli.svg" width="20" height="28" align="middle" alt=""></a> [`spark-cli`](https://github.com/jalendport/spark-cli) — a CLI for various Spark boilerplates
 - [`spark-docker-images`](https://github.com/jalendport/spark-docker-images) — opinionated Docker images for various Spark boilerplates
 - [`spark-github-actions`](https://github.com/jalendport/spark-github-actions) — reusable GitHub Actions for building and deploying Spark-based projects
 
