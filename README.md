@@ -4,20 +4,20 @@ I'm Jalen, a designer & web developer who spends most days building things with 
 
 ### What you'll find in my repos
 
-**Twig Toolbox** — <a href="https://github.com/jalendport/vscode-twig-toolbox"><img src="icons/vscode-twig-toolbox.png" width="20" height="20" align="middle" alt=""></a> [`vscode-twig-toolbox`](https://github.com/jalendport/vscode-twig-toolbox) brings a complete Twig 3 grammar and a real language server to VS Code, with first-class Craft CMS awareness.
+**Twig Toolbox** — <a href="https://github.com/jalendport/vscode-twig-toolbox"><img src="icons/vscode-twig-toolbox.png" width="18" height="18" align="middle" alt=""></a> [`vscode-twig-toolbox`](https://github.com/jalendport/vscode-twig-toolbox) brings a complete Twig 3 grammar and a real language server to VS Code, with first-class Craft CMS awareness.
 
 **Spark** — A set of opinionated boilerplates and tooling for spinning up new projects fast.
-- <a href="https://github.com/jalendport/spark-craft"><img src="icons/spark-craft.svg" width="20" height="20" align="middle" alt=""></a> [`spark-craft`](https://github.com/jalendport/spark-craft) — an opinionated starter boilerplate for Craft CMS
-- <a href="https://github.com/jalendport/spark-cli"><img src="icons/spark-cli.svg" width="20" height="20" align="middle" alt=""></a> [`spark-cli`](https://github.com/jalendport/spark-cli) — a CLI to glue it all together
-- <a href="https://github.com/jalendport/spark-craft-lab"><img src="icons/spark-craft-lab.svg" width="20" height="20" align="middle" alt=""></a> [`spark-craft-lab`](https://github.com/jalendport/spark-craft-lab) — a disposable Craft runtime for smoke-testing plugins
+- <a href="https://github.com/jalendport/spark-craft"><img src="icons/spark-craft.svg" width="18" height="18" align="middle" alt=""></a> [`spark-craft`](https://github.com/jalendport/spark-craft) — an opinionated starter boilerplate for Craft CMS
+- <a href="https://github.com/jalendport/spark-cli"><img src="icons/spark-cli.svg" width="18" height="18" align="middle" alt=""></a> [`spark-cli`](https://github.com/jalendport/spark-cli) — a CLI to glue it all together
+- <a href="https://github.com/jalendport/spark-craft-lab"><img src="icons/spark-craft-lab.svg" width="18" height="18" align="middle" alt=""></a> [`spark-craft-lab`](https://github.com/jalendport/spark-craft-lab) — a disposable Craft runtime for smoke-testing plugins
 - [`spark-docker-images`](https://github.com/jalendport/spark-docker-images) & [`spark-github-actions`](https://github.com/jalendport/spark-github-actions) — the Docker images and CI workflows behind it
 
 **Craft CMS plugins** — A whole shelf of plugins I've built over the years.
-- <a href="https://github.com/jalendport/craft-preparse"><img src="icons/craft-preparse.svg" width="20" height="20" align="middle" alt=""></a> [`craft-preparse`](https://github.com/jalendport/craft-preparse) — a field type that parses Twig when an element is saved
-- <a href="https://github.com/jalendport/craft-metronome"><img src="icons/craft-metronome.svg" width="20" height="20" align="middle" alt=""></a> [`craft-metronome`](https://github.com/jalendport/craft-metronome) — Laravel-style task scheduling: one crontab entry, everything else in PHP
-- <a href="https://github.com/jalendport/craft-lockout"><img src="icons/craft-lockout.svg" width="20" height="20" align="middle" alt=""></a> [`craft-lockout`](https://github.com/jalendport/craft-lockout) — temporarily lock certain users out of the control panel
-- <a href="https://github.com/jalendport/craft-altcha"><img src="icons/craft-altcha.svg" width="20" height="20" align="middle" alt=""></a> [`craft-altcha`](https://github.com/jalendport/craft-altcha) — a privacy-friendly, GDPR-compliant CAPTCHA alternative for your forms
-- <a href="https://github.com/jalendport/craft-readtime"><img src="icons/craft-readtime.svg" width="20" height="20" align="middle" alt=""></a> [`craft-readtime`](https://github.com/jalendport/craft-readtime) — estimated read times for entries, plus [a few more](https://github.com/jalendport?tab=repositories&q=craft-)
+- <a href="https://github.com/jalendport/craft-preparse"><img src="icons/craft-preparse.svg" width="18" height="18" align="middle" alt=""></a> [`craft-preparse`](https://github.com/jalendport/craft-preparse) — a field type that parses Twig when an element is saved
+- <a href="https://github.com/jalendport/craft-metronome"><img src="icons/craft-metronome.svg" width="18" height="18" align="middle" alt=""></a> [`craft-metronome`](https://github.com/jalendport/craft-metronome) — Laravel-style task scheduling: one crontab entry, everything else in PHP
+- <a href="https://github.com/jalendport/craft-lockout"><img src="icons/craft-lockout.svg" width="18" height="18" align="middle" alt=""></a> [`craft-lockout`](https://github.com/jalendport/craft-lockout) — temporarily lock certain users out of the control panel
+- <a href="https://github.com/jalendport/craft-altcha"><img src="icons/craft-altcha.svg" width="18" height="18" align="middle" alt=""></a> [`craft-altcha`](https://github.com/jalendport/craft-altcha) — a privacy-friendly, GDPR-compliant CAPTCHA alternative for your forms
+- <a href="https://github.com/jalendport/craft-readtime"><img src="icons/craft-readtime.svg" width="18" height="18" align="middle" alt=""></a> [`craft-readtime`](https://github.com/jalendport/craft-readtime) — estimated read times for entries, plus [a few more](https://github.com/jalendport?tab=repositories&q=craft-)
 
 **Laravel Forge** — Helpers and ready-to-deploy stacks for [Laravel Forge](https://forge.laravel.com).
 - [`laravel-forge-recipes`](https://github.com/jalendport/laravel-forge-recipes) — a collection of recipes and scripts to enhance your Forge workflow
